@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeniy</a>
-<h3 align="center">.NET Developer🇺</h3>
+<h3 align="center">.NET Developer</h3>
