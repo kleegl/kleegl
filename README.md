@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Evgeniy</a>
+<h1 align="center">Hi there, I'm Evgeniy</a>
 <h3 align="center">.NET Developer</h3>
