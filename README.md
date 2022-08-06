@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Evgeniy</h1>
+<h1 align="center">Hi there, I'm Evgeniy👋</h1>
 <h3 align="center">I've been developing in Python and C#. At the moment, I am passionate about full stack web development.</h3>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
