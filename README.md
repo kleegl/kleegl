@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a>
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleegl&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleegl&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
   
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
