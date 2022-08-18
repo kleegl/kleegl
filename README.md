@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Evgeniy👋</h1>
 <h3 align="center">I've been developing in C#, JavaScript and Python. At the moment, I am passionate about full stack web development.</h3>
 
-[![Top Langs]
+
 <a>
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=kleegl&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleegl&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)"/>
 </a>
   
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
