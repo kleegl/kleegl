@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Evgeniy👋</h1>
 <h3 align="center">I've been developing in C#, JavaScript and Python. At the moment, I am passionate about full stack web development.</h3>
 
+[![Top Langs]
+<a>
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=kleegl&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)"/>
+</a>
+  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,15 +29,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleegl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 
