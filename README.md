@@ -28,4 +28,4 @@ https://ileriayo.github.io/markdown-badges/
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/kleegl?theme=dark&font=Play))
+![Leetcode Stats](https://leetcard.jacoblin.cool/kleegl?theme=dark&font=Play)
