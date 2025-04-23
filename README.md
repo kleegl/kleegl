@@ -29,4 +29,4 @@ https://ileriayo.github.io/markdown-badges/
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kleegl?theme=dark&font=Play)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kleegl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kleegl&theme=dark)](https://git.io/streak-stats)
