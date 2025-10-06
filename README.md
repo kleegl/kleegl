@@ -29,7 +29,8 @@ https://ileriayo.github.io/markdown-badges/
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/kleegl?theme=dark&font=Play)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kleegl?theme=dark&font=Play)
 
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=kleegl&theme=dark)
 -->
